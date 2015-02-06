@@ -1,4 +1,6 @@
 # hello-world
 first github exercise
 
-My first commit exercise.... how exciting :)
+My first commit exercise.... how exciting :) more examples...
+additional exercise using gitbash.....
+
